@@ -1,0 +1,2 @@
+# DoggieServer
+Discord Server 
